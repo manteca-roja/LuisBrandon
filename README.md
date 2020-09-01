@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on a Telegram Bot with C#!
 - 🌱 I’m currently learning about .NET enviroment
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 🧐 Currently looking for a job!
 
 
