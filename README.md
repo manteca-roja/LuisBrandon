@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LuisBrandon/LuisBrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Telegram Bot with C#!
 - 🌱 I’m currently learning about .NET enviroment
@@ -11,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 🧐 Currently looking for a job!
 
--->
+
 
 <h2 align="center">Skills</h2>
 
