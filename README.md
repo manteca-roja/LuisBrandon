@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Telegram Bot with C#!
-- 🌱 I’m currently learning about .NET enviroment
+- 🔭 I’m currently working on World of Warcraft server project
+- 🌱 I’m currently studying security
 - 🧐 Currently looking for a job!
 
 
