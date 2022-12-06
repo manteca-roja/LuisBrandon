@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on World of Warcraft server project
-- 🌱 I’m currently studying security
-- 🧐 Currently looking for a job!
-
-
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
